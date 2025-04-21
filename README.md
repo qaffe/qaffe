@@ -8,5 +8,6 @@
 
 <p align="center">
   <strong><a href="https://qaffe.nekoweb.org">Website</a></strong> |
+  <strong><a href="https://www.tumblr.com/blog/qaffe">Tumblr</a></strong> |
   <strong><a href="https://bsky.app/profile/qaffe.bsky.social">Bluesky</a></strong>
 </p>
