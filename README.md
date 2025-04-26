@@ -2,9 +2,23 @@
 
 <h3 align="center">Welcome to my github :3</h3>
 
-<h4 align="center">I am currently working on:</h4>
+---
 
-<p align="center">(Will add to this later, i am very eepy)</p>
+<h4>My interests are:</h4>
+
+<ul>
+  <li>Computer Science</li>
+  <li>Astronomy</li>
+  <li>Art/Writing</li>
+</ul>
+
+<h4>I am currently working on:</h4>
+
+<ul>
+  <li>Going to university</li>
+  <li>My linux dotfiles</li>
+  <li>Other random stuff</li>
+</ul>
 
 <p align="center">
   <strong><a href="https://qaffe.nekoweb.org">Website</a></strong> |
