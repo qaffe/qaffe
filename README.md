@@ -8,6 +8,7 @@
 
 <ul>
   <li>Computer Science</li>
+  <li>Cybersecurity</li>
   <li>Astronomy</li>
   <li>Art/Writing</li>
 </ul>
