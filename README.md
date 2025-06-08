@@ -16,7 +16,8 @@
 <h4>I am currently working on:</h4>
 
 <ul>
-  <li>Going to university</li>
+  <li>Furthering my knowledge</li>
+  <li>Becoming a wizard</li>
   <li>My linux dotfiles</li>
   <li>Other random stuff</li>
 </ul>
